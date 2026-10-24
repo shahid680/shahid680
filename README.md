@@ -36,9 +36,13 @@ Technologies I work with and continue to explore.
 
 
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<h2>Contribution Activity</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
 
 
 
