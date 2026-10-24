@@ -3,29 +3,45 @@
 ## cybersecurity certificate (SEC0)
 <img width="100" height="70" alt="Screenshot 2026-10-21 131802" src="https://github.com/user-attachments/assets/749872b1-af43-4c37-9fba-45dddc7bfb0d" />
 
-## cybersecurity badges
+### Cybersecurity Tools
+
+Currently learning and exploring cybersecurity tools for network analysis, web security, reconnaissance, and penetration testing.
 
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <a href="https://sqlmap.org/" title="SQLmap — SQL injection testing">
+    <img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLmap" />
   </a>
-  <a href="https://tryhackme.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <a href="https://github.com/vanhauser-thc/thc-hydra" title="Hydra — Login security testing">
+    <img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Hydra" />
   </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <a href="https://gchq.github.io/CyberChef/" title="CyberChef — Data encoding and decoding">
+    <img src="https://img.shields.io/badge/CyberChef-2E8B57?style=for-the-badge&logoColor=white" alt="CyberChef" />
   </a>
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <a href="https://github.com/OJ/gobuster" title="Gobuster — Directory and DNS enumeration">
+    <img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logo=github&logoColor=white" alt="Gobuster" />
   </a>
-  <a href="https://nmap.org/" target="_blank">
+  <a href="https://nmap.org/" title="Nmap — Network scanning">
     <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" alt="Nmap" />
   </a>
-  <a href="https://www.metasploit.com/" target="_blank">
+  <a href="https://www.metasploit.com/" title="Metasploit — Penetration testing framework">
     <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" alt="Metasploit" />
   </a>
+  <a href="https://www.openwall.com/john/" title="John the Ripper — Password auditing">
+    <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logoColor=white" alt="John the Ripper" />
+  </a>
+  <a href="https://www.wireshark.org/" title="Wireshark — Packet analysis">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  </a>
+  <a href="https://www.tcpdump.org/" title="tcpdump — Command-line packet capture">
+    <img src="https://img.shields.io/badge/tcpdump-555555?style=for-the-badge&logo=linux&logoColor=white" alt="tcpdump" />
+  </a>
+  <a href="https://www.kali.org/" title="Kali Linux — Security testing operating system">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  </a>
+  <a href="https://portswigger.net/burp" title="Burp Suite — Web application security testing">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  </a>
 </p>
-
 
 
 
