@@ -35,12 +35,10 @@ Technologies I work with and continue to explore.
 
 
 
-## 🎮 Game Zone
 
-<p align="left">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Retro gaming animation" />
-</p>
+## 🐍 Contribution Snake
 
-> Eat. Sleep. Code. Repeat.
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 
