@@ -36,12 +36,10 @@ Technologies I work with and continue to explore.
 
 
 
+## 🐍 Contribution Snake
 
-<h2>Contribution Activity</h2>
+![Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
 
 
 
